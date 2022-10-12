@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chapter 6 top 2</string>
+    <string name="enter_key">enter key..</string>
+    <string name="enter_value">enter value..</string>
+    <string name="save">save</string>
+    <string name="read">Read</string>
+    <string name="read_value">read value</string>
+    <string name="goto_proto_datastore">goto proto datastore</string>
+</resources>
